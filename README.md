@@ -1,4 +1,4 @@
-# AIFFEL_EXPLORATIONSTAGE
+# 🎠🎡AIFFEL_EXPLORATIONSTAGE🎠🎡
 
 
 |노드|제목|내용|category|
@@ -19,3 +19,4 @@
 |EXP14| 14. 아이유팬이 좋아할 만한 다른 아티스트 찾기 | 추천시스템의 기본적인 원리와 구성을 파악하고 Last.fm 데이터 및 MovieLens 데이터를 통해 간단하고 효과적인 아티스트 추천시스템과 영화 추천시스템을 구현해 본다. | Recommendation System | 
 |EXP15| 15. 문자를 읽을 수 있는 딥러닝 | 문자를 읽는 OCR 모델의 구조를 배우고, keras-ocr과 테서랙트 엔진을 써본다. | CV |
 |EXP16| 16. 다음에 볼 영화 예측하기 | 고객이 바로 지금 원하는 것이 무엇인지를 예측하여 추천하는 Session-based Recommendation 개념을 익히고 실제로 모델을 구축해 본다. | Recommendation System | 
+|EXP17| 17. 난 스케치를 할 테니 너는 채색을 하거라 | 이미지 생성 모델로 사용되는 GAN 중에서 조건이 추가된 cGAN에 대해 알아보고 Pix2Pix를 배워봅니다. | GAN | 
